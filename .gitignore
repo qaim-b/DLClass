@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets (large files)
+*.pt
+*.7z
+Fashion_Model/Dataset/
+archives/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code local config
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store

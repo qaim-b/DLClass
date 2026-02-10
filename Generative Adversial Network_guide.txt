@@ -1,0 +1,15 @@
+Generative Adversial Network
+Notes
+
+Involved:
+- Fake images/noise
+- Generator
+- Discriminator
+
+1. Place fake images into generator, run.
+2. Place real and fake images into discriminator.
+3. Repeat 1 and 2 for a number of epochs.
+
+
+
+forward function always needed in a nn.Module
