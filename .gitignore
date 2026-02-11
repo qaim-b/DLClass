@@ -13,7 +13,7 @@ archives/
 .vscode/
 .idea/
 
-# Claude Code local config
+# Local config
 .claude/
 
 # OS
